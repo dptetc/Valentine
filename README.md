@@ -1,4 +1,4 @@
 Valentine
 =========
 
-Valentine Day Repo :sparkling_heart:
+Valentine Day Repo :gift_heart:
